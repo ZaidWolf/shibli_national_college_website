@@ -6,9 +6,6 @@
     text-decoration: none;
     list-style: none;
 }
-body{
-    height: 143rem;
-}
 /* Top Header  ---------------------------------------------------------------------------------------------------------------*/
 #top-header {
     background-color: rgb(0, 100, 0);
